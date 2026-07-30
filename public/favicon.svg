@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" rx="40" fill="#050505"/>
+  <g fill="#22d3ee" stroke="#22d3ee">
+    <!-- Bug Head -->
+    <path d="M 90 62 C 90 56, 110 56, 110 62 Z" fill="#22d3ee" stroke="#22d3ee" stroke-width="3"/>
+    <!-- Antennae -->
+    <path d="M 94 57 C 90 48, 86 46, 82 48" stroke="#22d3ee" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 106 57 C 110 48, 114 46, 118 48" stroke="#22d3ee" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- Bug Main Body Shell -->
+    <path d="M 98 67 C 82 67, 80 82, 80 98 C 80 114, 85 125, 98 125 Z" fill="#22d3ee"/>
+    <path d="M 102 67 C 118 67, 120 82, 120 98 C 120 114, 115 125, 102 125 Z" fill="#22d3ee"/>
+    <line x1="100" y1="65" x2="100" y2="127" stroke="#050505" stroke-width="3"/>
+    <!-- Legs -->
+    <path d="M 82 76 L 68 72 L 62 82" stroke="#22d3ee" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 80 96 L 64 96 L 58 104" stroke="#22d3ee" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 82 114 L 68 120 L 64 132" stroke="#22d3ee" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 118 76 L 132 72 L 138 82" stroke="#22d3ee" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 120 96 L 136 96 L 142 104" stroke="#22d3ee" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 118 114 L 132 120 L 136 132" stroke="#22d3ee" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g stroke="#38bdf8" fill="#38bdf8">
+    <path d="M 60 48 L 60 38" stroke-width="3.5" stroke-linecap="round"/><circle cx="60" cy="34" r="5"/>
+    <path d="M 78 52 L 78 30 L 90 18 L 90 14" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="90" cy="10" r="5.5"/>
+    <path d="M 100 48 L 100 24" stroke-width="3.5" stroke-linecap="round"/><circle cx="100" cy="18" r="5.5"/>
+    <path d="M 122 52 L 122 30 L 110 18 L 110 14" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="110" cy="10" r="5.5"/>
+    <path d="M 140 48 L 140 38" stroke-width="3.5" stroke-linecap="round"/><circle cx="140" cy="34" r="5"/>
+    <path d="M 44 60 L 30 46" stroke-width="3.5" stroke-linecap="round"/><circle cx="25" cy="41" r="5"/>
+    <path d="M 48 76 L 36 76 L 28 68" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 46 96 L 22 96" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 48 116 L 36 124 L 28 124" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 52 134 L 30 156" stroke-width="3.5" stroke-linecap="round"/><circle cx="25" cy="161" r="5.5"/>
+    <path d="M 156 60 L 170 46" stroke-width="3.5" stroke-linecap="round"/><circle cx="175" cy="41" r="5"/>
+    <path d="M 152 76 L 164 76 L 172 68" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 154 96 L 178 96" stroke-width="3.5" stroke-linecap="round"/><circle cx="184" cy="96" r="5"/>
+    <path d="M 152 116 L 164 124 L 172 124" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 148 134 L 170 156" stroke-width="3.5" stroke-linecap="round"/><circle cx="175" cy="161" r="5.5"/>
+    <path d="M 72 142 L 72 172" stroke-width="3.5" stroke-linecap="round"/><circle cx="72" cy="178" r="5.5"/>
+    <path d="M 100 144 L 100 178" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M 128 142 L 128 172" stroke-width="3.5" stroke-linecap="round"/><circle cx="128" cy="178" r="5.5"/>
+  </g>
+</svg>
