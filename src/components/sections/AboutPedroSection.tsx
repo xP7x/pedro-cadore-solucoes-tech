@@ -49,7 +49,7 @@ export const AboutPedroSection: React.FC = () => {
               {/* Photo Avatar Frame */}
               <div className="relative rounded-2xl overflow-hidden aspect-square border border-white/10 bg-[#050505] mb-6">
                 <img
-                  src="public\1784759377841.jfif"
+                  src="/1784759377841.jfif"
                   alt="Pedro Cadore"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
